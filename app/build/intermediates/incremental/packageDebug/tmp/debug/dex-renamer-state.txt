@@ -1,0 +1,4 @@
+#Sun Aug 29 18:04:20 IST 2021
+base.0=C\:\\Users\\VISHAL RAJ\\Downloads\\College-Space-main\\College-Space-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
